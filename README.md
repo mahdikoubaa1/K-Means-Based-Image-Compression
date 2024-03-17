@@ -1,2 +1,2 @@
 # K-Means-Based-Image-Compression
-The goal is to use K-Means clustering for image compression in Python.
+In this project, we use K-Means clustering for image compression in Python.
